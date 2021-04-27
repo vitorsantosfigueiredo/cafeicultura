@@ -73,9 +73,26 @@ Produção de grãos; Altura e Arquitetura das plantas; Vigor vegetativo; Resist
 nematoides; Tolerância à fatores abióticos; Maturação de frutos: época e uniformidade; Teor de cafeína;
 Teor de sólidos solúveis e açúcar; Tamanho e aspecto do grão; Qualidade da bebida.
 
-### AULA O5 - 
+### AULA O5 - Produção de sementes e mudas de cafeeiro
 **Descreva quais seriam as principais razões para se produzir os seguintes tipos de mudas de café?**
 1. ***Mudas produzidas por sementes (chamadas “mudas-de-meio-ano”);***
 São as mudas mais comuns produzidas a partir da disponibilidade de sementes no mês de abril até junho. Sendo plantadas no final do ano.
+2. ***Mudas produzidas por sementes (chamadas “mudas-de-ano”);***
+São chamadas de “mudão”. São mudas maiores são utilizadas para o replantio, no entanto alguns produtores optam por essas mudas, por terem uma maior quantidade de frutos na primeira colheita.
+3. ***Mudas produzidas por estacas do ramo ortotrópico;***
+São estacas produzidas a partir de uma brotação da planta mãe. Essas mudas são clones da planta mãe. Muito utilizado no Coffea canephora. Depois de escolher uma planta modelo utiliza-se clones dessa planta, que são produzidas a partir dos ramos ortotrópicos que surgem como novas brotações.
+4. ***Mudas produzidas utilizando-se a técnica da enxertia;***
+Essa tipo de muda é muito utilizado em áreas com infestação de nematoides. Utiliza-se um porta enxerto resistente, e uma variedade de copa mais produtiva, qualidade de bebida.
+5. ***Mudas produzidas utilizando-se a técnica da embriogênese somática.***
+A embriogênese somática é uma técnica de clonagem, bastante eficiente pois utiliza apenas uma parte da folha da planta de café Ainda está em fase de testes não possuindo uma infra estrutura dentro da cadeia produtiva do café. È uma técnica de clonagem promissora, que irá impactar o
+mercado de produção de mudas de café no Brasil.
+
+
+
+
+
+
+
+
 
 
