@@ -7,7 +7,7 @@
 ### AULA 01 - Introdução e Histórico da Cafeicultura
 Introdução e Histórico da Cafeicultura
 
-### AULA 02 - AGRONÉGOCIO DO CAFÉ
+### AULA 02 - Agronegócio Café
 
 <div style="text-align: justify"> Existe várias espécies de Café, sendo a Coffea Arábica e a Coffea Canephora as utilizadas com 
 interesse econômico. De forma geral possuem características um pouco diferente, a Cooffea Canephora
@@ -35,7 +35,7 @@ arábica de forma separada a média gira em torno de 30 sacas por hectare no ano
 café Conilon a média gira em torno de 40 sacas por hectare.
 </div>
 
-### AULA 03 - MORFOLOGIA E FISIOLOGIA DO CAFEEIRO
+### AULA 03 - Morfologia e Fisiologia do Cafeeiro
 
 <div style="text-align: justify"> A planta de café se classifica no aspecto botânico como Fanerógamas. Classe das Angiosperma.
 Subclasse: Eudicotiledônea. Ordem: Rubiales. Família: Rubiaceae. Tribo: Coffeae.Gênero Coffea. Dentre as
@@ -53,14 +53,25 @@ par de ramos plagiotrópicos. Nos primeiro ano o café precisar aumentar o taman
 tendo alta atividade vegetativa, para que no próximo ano esse ramos sirvam de área produtiva.</div>
 
 <div style="text-align: justify"> As plantas possuem Raiz pivotante. Axiais laterais: absorção de água. Raízes da placa superficial:
-absorção de nutrientes. Raízes de fora da placa superficial. Ramos ortotrópicos: crescem verticalmente. •
-Ramos plagiotrópicos: crescem lateralmente numa inclinação que varia de 45 a 90o em relação ao eixo
-principal, possuindo gemas seriadas e cabeça de série. AS flores Hermafroditas. Medem de 1 a 2 cm, com
-cálice rudimentar verde e corola tubular branca. Estames em número de 5, com filete filiforme e antera
-extrorsa; Deiscência longitudinal dos estames. Somente 1 pistilo de construção aberta, bífido. Ovário com 2
-lóculos, de inserção ínfera. Os frutos possuem duas lojas e indeiscentes, tipo drupa com duas sementes,
-cerca de 1,5 cm de comprimento, de cor vermelha ou amarela quando maduro, tornando-se castanho escuro
-quando seco.</div>
+absorção de nutrientes. Raízes de fora da placa superficial. Ramos ortotrópicos: crescem verticalmente. Ramos plagiotrópicos: crescem lateralmente numa inclinação que varia de 45 a 90o em relação ao eixo principal, possuindo gemas seriadas e cabeça de série. AS flores Hermafroditas. Medem de 1 a 2 cm, com
+cálice rudimentar verde e corola tubular branca. Estames em número de 5, com filete filiforme e antera extrorsa; Deiscência longitudinal dos estames. Somente 1 pistilo de construção aberta, bífido. Ovário com 2 lóculos, de inserção ínfera. Os frutos possuem duas lojas e indeiscentes, tipo drupa com duas sementes,
+cerca de 1,5 cm de comprimento, de cor vermelha ou amarela quando maduro, tornando-se castanho escuro quando seco.</div>
 
 ### AULA 04 - Genética e Melhoramento do Cafeeiro
+
+**1 ) Quais são as principais diferenças genéticas entre as espécies Coffea arabica e Coffea canephora?**
+O Coffea arabica é Alotetraplóide (descendente de 2 espécies diferentes / 2 conjuntos de cromossomos
+diferentes). 2n = 4x = 44 cromossomos. Autógama com alogamia frequente: 7 a 15% de cruzamento;
+Cleistogamia imperfeita. Propagação por sementes.
+O Coffea canephora é Diplóide. 2n = 2x = 22 cromossomos. Alógama. Autoincompatibilidade gametofítica.
+100% de cruzamento. Propagação por sementes e por enraizamento de estacas
+
+***2) Quais são os principais caracteres a serem levados em consideração quando falamos do
+melhoramento genético das espécies Coffea utilizadas pela fitotecnia?***
+Produção de grãos; Altura e Arquitetura das plantas; Vigor vegetativo; Resistência: doenças, pragas e
+nematoides; Tolerância à fatores abióticos; Maturação de frutos: época e uniformidade; Teor de cafeína;
+Teor de sólidos solúveis e açúcar; Tamanho e aspecto do grão; Qualidade da bebida.
+
+
+
 
