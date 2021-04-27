@@ -89,6 +89,18 @@ mercado de produção de mudas de café no Brasil.
 
 ### AULA 06 - Clima e solo para a cafeicultura
 
+1. **Cite 4 (quatro) fatores a serem considerados na escolha do local para implantação da lavoura, como prevenção de longo prazo às geadas***
+Preferir locais livres de acumulação de ar frio (lavouras no terço superior das encostas declive mínimo de 5%); Evitar encostas baixas ou espigões muito planos e extensos; Evitar terrenos côncavos e bacias com estreitas a jusante; Evitar vegetação alta e densa abaixo da cultura; 
+
+2. **Como são os sintomas/sinais de altas temperaturas nas folhas, flores e frutos do cafeeiro?**
+As altas temperaturas influenciam no ciclo do cafeeriro ocasionando maior intensidade de pragas e doenças como bicho-minador, lagarta rosca, ácaro vermelho e cercosporiose. Os sinais visuais são perceptíveis em toda planta, ocorrem lesões no ramo ortotrópico, que ficam com uma aparência de mais fino. O calor intenso na superfície do solo, prejudica o crescimento das raízes, e consequentemente a absorção de nutrientes, e provocando essas lesões no colo das plantas
+jovens. Ocorrem escaldaduras de folhas, que acarretam em menor área fotossintetizante, menor assimilação de fertilizantes e maior perda de Nitrogênio. Podem ocorrem também anomalias florais causada por altas temperaturas e déficit hídrico as chamadas botões florais e flores “estrelinhas” (pétalas pequenas e esverdeadas). Os frutos também são prejudicados, pode ocorrer Anomalia na formação de frutos o chamado “coração negro”. 
+
+3. **Cite 3 práticas de manejo citando suas diferenças na cafeicultura de menores declividades e na cafeicultura de montanha!**
+Manejo de Pragas e Doenças – Na cafeicultura de montanha ocorre de forma manual. Na cafeicultura de menores declividades é feita de forma mecanizada.
+Colheita - Na cafeicultura de montanha ocorre de forma manual. Na cafeicultura de menores declividades é feita de forma mecanizada.  Poda - Na cafeicultura de montanha não é comum o sistema de poda ou safra zero. Na cafeicultura de menores declividades é feita de forma mecanizada a colheita e muitas vezes uma
+poda dos ramos produtivos, muitas vezes é implementado o sistema de safra zero.
+
 
 
 
