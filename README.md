@@ -1,9 +1,10 @@
 # UFLA
 ![ufla](https://ufla.br/images/noticias/2020/09_set/ufla-25anos.png)
 # DISCIPLINA DE VERÃO
-# Cafeicultura UFLA 
-![café](https://media-exp1.licdn.com/dms/image/C4D0BAQFC7hI13KMGvg/company-logo_200_200/0/1523042955155?e=2159024400&v=beta&t=7A6pPWtGjTcdfJyntnBoVFHmuyqgYHkMVuteOZ_ZBBU)
 
+# Cafeicultura UFLA
+![café](https://media-exp1.licdn.com/dms/image/C4D0BAQFC7hI13KMGvg/company-logo_200_200/0/1523042955155?e=2159024400&v=beta&t=7A6pPWtGjTcdfJyntnBoVFHmuyqgYHkMVuteOZ_ZBBU)
+***
 ### AULA 01 - Introdução e Histórico da Cafeicultura
 Introdução e Histórico da Cafeicultura
 
@@ -72,6 +73,5 @@ Produção de grãos; Altura e Arquitetura das plantas; Vigor vegetativo; Resist
 nematoides; Tolerância à fatores abióticos; Maturação de frutos: época e uniformidade; Teor de cafeína;
 Teor de sólidos solúveis e açúcar; Tamanho e aspecto do grão; Qualidade da bebida.
 
-
-
-
+### AULA O5 - 
+#### Descreva quais seriam as principais razões para se produzir os seguintes tipos de mudas de café?
