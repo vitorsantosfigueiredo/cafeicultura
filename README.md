@@ -113,6 +113,20 @@ A segunda recomendação seria de 3,50 x 0,7, essa seria uma situação de uma l
 .3 **Faça a sugestão de um espaçamento para a implantação de uma lavoura com espaçamento adensado (entre 5.000 e 10.000 plantas por ha), explicando em que situação você faria tal recomendação;**
 Por ultimo um espaçamento mais adensado de 2,0 x 0,7. Totalizando aproximadamente 7100 plantas por hectare. Seria recomendando em um região de alta declividade, onde seria inviável a mecanização. Exemplo a região das Matas de Minas, algumas regiões do Sul de Minas. O espaçamento entre linha de 2,0 m permite tratos culturais, possibilitando melhor controle da lavoura. E 0,7 m entre plantas facilita a absorção dos nutrientes.
 
+### AULA 08 - Podas do cafeeiro
+
+**DEFINA**
+1. **Recepa baixa ou sem pulmão:**
+A recepa é uma poda drástica, consiste em cortar o ramo ortotrópico a uma altura de 20 a 40 cm do solo, deixando apenas o ramo ortotrópico sem presença de folhas. Esse corte irá causar um rebaixamento acentuado do índice de reservas de planta. Permitindo que a planta rebrote recuperando sua juvenilidade.
+
+2. **Recepa alta ou com pulmão**
+A recepa alta ou com pulmão consiste em cortar o ramo ortotrópico a uma altura de 40 a 100 cm do solo. Nesse tipo de poda é preservado alguns ramos produtores existentes no baixeiro.
+
+3. **Decote baixo**
+Consiste em um corte no ramo ortotrópico na altura, de 1,0 a 1,5m do solo. É mais indicado para diminuir o tamanho das plantas, facilitando os tratos e a colheita ou visando maior incidência de luz, aumentando, assim, as brotações dos ramos produtivos e a florada.
+
+4. **Decote alto**
+É uma poda em que o corte é feito no ramo ortotrópico, utilizando em plantas em que grande parte dos ramos laterais ainda se encontram presentes e que podem ter potencial produtivo para a próxima safra. O tronco é cortado entre 1,5 a 2,0m do solo
 
 
 
