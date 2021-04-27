@@ -103,6 +103,17 @@ poda dos ramos produtivos, muitas vezes é implementado o sistema de safra zero.
 
 ### AULA 07 - Clima e solo para a cafeicultura
 
+.1  **Faça a sugestão de um espaçamento para a implantação de uma lavoura com espaçamento tradicional (até 3.000 plantas por ha), explicando em que situação você faria tal recomendação;**
+A recomendação de seria de 3,8 X 0,9, totalizando aproximadamente 2888 mudas por hectare. Esse tipo de espaçamento seria recomendado em uma condição de terreno com baixa declividade, cafeicultura 100% mecanizada. A distância entre linhas facilitaria o transito de maquinas. A maior distância entre plantas facilitaria a escolha de um cultivar de porte alto como Mundo Novo ou Bourbon Amarelo.
+
+.2  **Faça a sugestão de um espaçamento para a implantação de uma lavoura com espaçamento semi-adensado (entre 3.000 e 5.000 plantas por ha), explicando em que
+situação você faria tal recomendação;**
+A segunda recomendação seria de 3,50 x 0,7, essa seria uma situação de uma lavoura semi mecanizada. Onde o produtor costuma colher através de mão de obra, no entanto consegue eventualmente aluguel de máquinas. O espaçamento entre linhas de 3,50 ainda permite o transito de máquinas de colher café, já o menor entre plantas permite um ganho na produtividade.
+
+.3 **Faça a sugestão de um espaçamento para a implantação de uma lavoura com espaçamento adensado (entre 5.000 e 10.000 plantas por ha), explicando em que situação você faria tal recomendação;**
+Por ultimo um espaçamento mais adensado de 2,0 x 0,7. Totalizando aproximadamente 7100 plantas por hectare. Seria recomendando em um região de alta declividade, onde seria inviável a mecanização. Exemplo a região das Matas de Minas, algumas regiões do Sul de Minas. O espaçamento entre linha de 2,0 m permite tratos culturais, possibilitando melhor controle da lavoura. E 0,7 m entre plantas facilita a absorção dos nutrientes.
+
+
 
 
 
