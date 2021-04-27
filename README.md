@@ -74,4 +74,8 @@ nematoides; Tolerância à fatores abióticos; Maturação de frutos: época e u
 Teor de sólidos solúveis e açúcar; Tamanho e aspecto do grão; Qualidade da bebida.
 
 ### AULA O5 - 
-#### Descreva quais seriam as principais razões para se produzir os seguintes tipos de mudas de café?
+**Descreva quais seriam as principais razões para se produzir os seguintes tipos de mudas de café?**
+1. ***Mudas produzidas por sementes (chamadas “mudas-de-meio-ano”);***
+São as mudas mais comuns produzidas a partir da disponibilidade de sementes no mês de abril até junho. Sendo plantadas no final do ano.
+
+
