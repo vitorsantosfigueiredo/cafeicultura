@@ -101,6 +101,10 @@ Manejo de Pragas e Doenças – Na cafeicultura de montanha ocorre de forma manu
 Colheita - Na cafeicultura de montanha ocorre de forma manual. Na cafeicultura de menores declividades é feita de forma mecanizada.  Poda - Na cafeicultura de montanha não é comum o sistema de poda ou safra zero. Na cafeicultura de menores declividades é feita de forma mecanizada a colheita e muitas vezes uma
 poda dos ramos produtivos, muitas vezes é implementado o sistema de safra zero.
 
+### AULA 07 - Clima e solo para a cafeicultura
+
+
+
 
 
 
