@@ -152,6 +152,55 @@ doses lixiviam K e Mg; É muito móvel no solo; auxiliam
  para que raízes se tornem mais
 profundas; Fonte de Ca e S; Melhora absorção de outros nutrientes.
 
+### AULA 10 - Nutrição do cafeeiro (Parte II)
+
+### AULA 11 - Manejo Plantas Daninhas e Culturas Intercalares
+
+**Manejo de Plantas Daninhas:**
+
+***1) Prejuízos e possíveis benefícios;***
+
+No café de acordo com pesquisas, de modo geral perdas de 40 até 60%. As plantas
+daninhas são responsáveis por aproximadamente 40% das perdas. As principais formas de
+interferência são por competição. Essas plantas extraem do solo água e nutrientes essenciais
+para o cafeeiro. Como danos indiretos dificultam a adubação, colheita, aplicação de
+defensivos, arruação, esparramação. A contaminação de lotes em função das sementes de
+plantas daninhas, também é comum. Dificultando para as máquinas de beneficiamento
+diferenciar grão de café de semente de plantas daninhas,.
+
+**2) Comente sobre os tipos e as estratégias de manejo de plantas daninhas no
+cafeeiro;**
+
+**Culturas Intercalares:**
+**a) Comente o que são culturas intercalares;**
+Cultivo de duas ou mais espécies com diferentes ciclos e arquiteturas vegetativas, exploradas
+concomitantemente na mesma área e num mesmo período de tempo, sendo que não
+necessariamente tenham sido semeadas ao mesmo tempo.
+
+
+**b) Fale sobre as justificativas de uso de culturas intercalares / consórcio com o cafeeiro;**
+
+Consórcio, culturas perenes ou culturas anuais ocupando simultaneamente a mesma área.
+Normalmente utilizado em pequenas propriedades, o produtor corre menos riscos e maior
+retorno. Alternativa altamente viável para aumentar o oferta de alimentos.
+Intercalar. Elevar a eficiência de produção de alimentos, aumentar a renda do pequeno
+agricultor. No passado combate mecanizado à ferrugem era utilizando sistemas de renques
+(“ruas” de 4 a 4,5 m entre linhas) e pulverizações cúpricos mecanizadas. Nas fases de
+formação/renovação da lavoura, a associação de culturas ao cafezal pode representar ganhos
+para os cafeicultores. Diminuição do custo de formação da lavoura. Manutenção da cobertura
+morta. Melhoria da permeabilidade e aeração do solo. Possibilita a incorporação de restos
+culturais. Funcionam como quebra-ventos temporários. Cultura de subsistência. Geração de
+empregos. Redução da capina dos cafezais. Ciclagem de nutrientes. Benefícios ambientais.
+Ação de fungos entomopatogênicos.
+
+**c) Comente sobre a importância do conhecimento da alelopatia para sucesso com o
+uso de culturas intercalares / consórcio em lavouras cafeeiras.**
+
+Toda planta produz metabólicos secundários que variam em qualidade e quantidade. É preciso
+entender quais efeitos alelopáticos determinadas culturas podem causar no café. Pode haver
+reações dentro de espécies ou entre espécies. Precisamos conhecer bem quais plantas utilizar
+de forma intercalar ou em consórcio. Para que não prejudique nossa produtividade e sanidade
+das lavouras.
 
 
 
