@@ -131,6 +131,28 @@ Consiste em um corte no ramo ortotrópico na altura, de 1,0 a 1,5m do solo. É m
 
 
 
+### AULA 09 - Nutrição do cafeeiro (Parte I)
+
+***Questão 1- Quais são os benefícios da calagem?***
+A calagem tem dois objetivos principais diminuir a acidez, aumentando o pH do solo, e fornecer
+cálcio e magnésio para as plantas. Como benefícios podemos destacar a neutralização do
+alumínio; Insolubiliza o manganês; Fornece cálcio e magnésio; -Eleva a CTC; Melhora no
+aproveitamento de nutrientes (eleva pH).
+
+***Questão 2- Por que da necessidade da calagem nos sulcos de plantio durante a
+implantação da lavoura?***
+O Calcário precisa ser incorporado em profundidade. Pois desce pouco no perfil do solo. Na
+profundidade que foi aplicado permanece, no entanto se torna necessário a aplicação em
+profundidade, diferentes de outros nutrientes como nitrogênio e potássio que se aplica em
+cobertura.
+
+***Questão 3- Por que a gessagem não substitui a calagem?***
+A gessagem não corrige a acidez do solo. Contribui para neutralizar o Al em profundidade; Altas
+doses lixiviam K e Mg; É muito móvel no solo; auxiliam
+ para que raízes se tornem mais
+profundas; Fonte de Ca e S; Melhora absorção de outros nutrientes.
+
+
 
 
 
