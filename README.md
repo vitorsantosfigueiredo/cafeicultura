@@ -205,6 +205,23 @@ de forma intercalar ou em consórcio. Para que não prejudique nossa produtivida
 das lavouras.
 
 
+### AULA 12 - Principais pragas e doenças do cafeeiro
+
+    **1) Explique de que forma, as seguintes pragas e doenças, interferem na qualidade da bebida:**
+    
+    **a) Broca**
+Causa injúrias diretas nos frutos, com redução quantitativa e qualitativa da produção.
+    b) Bicho mineiro
+As minas nas folhas são causadas pelas lagartas do bicho-mineiro, transformado-se em áreas necróticas , mortas e consequentemente, numa menor área fotossintetizadora, podendo inclusive provocar queda de folhas e grande desfolha nos períodos mais secos. A desfolha das lavouras irá prejudicar a formação de grãos perfeitos. Devido a baixa taxa fotossintética, o que causa impacto direto na qualidade da bebida.  
+    c) Ferrugem
+O principal dano da ferrugem é a desfolha e consequentemente a perda na produção em até 50%. Além da redução da quantidade de café produzido, a doença pode reduzir o tamanho dos grãos. 
+
+    d) Cercospora
+A cercosporiose em lavouras adultas provoca a queda de folhas, seca de ramos. No que diz respeito aos grãos que afetam diretamente a qualidade, amadurecimento precoce, queda prematura, chocamento, quebra e aderência da casca aos frutos, prejudicando o descascamento. Qualitativamente reduz a quantidade de açucares e pode estar associada ao aumento de cafeína. Além disso, as lesões funcionam como uma porta de entrada para outros fungos e bactérias que depreciam a qualidade da bebida. 
+
+
+    2) Como você recomendaria a calibração de um pulverizador ARBUS 400, para aplicação de inseticida?
+Uma boa eficiência de pulverização pode ser obtida com a mistura dos inseticidas cartap 500 PS (1,0 Kg p.c./ha); spinosad480 SC (150 mL p.c./ha) e triflumuron 250 PM (300 g i.a./ha). Esta pulverização visa matar ovos de bicho-mineiro na página superior das folhas (cartap), lagartinhas do bicho-mineiro dentro das minas e evitar formar novas minas através delas (cartap, spinosad e triflumuron). O inseticida cartap pode também matar adultos (mariposinhas) do bicho-mineiro pela ação de contato, inclusive também o spinosad. Evitar aplicar inseticida piretróide na mistura visando matar adultos da praga. O spinosad pode ser substituído pelo clorantraniliprole 250 SC (160 mL p.c./ha) ou flubendiamida 480 SC (200 mL p.c./ha). Pulverizar evitando as horas mais quentes do dia. Para evitar evaporação de gotas, adicionar óleo emulsionável mineral a 0,5% (500 mL de óleo emulsionável/100 L de água). Adicionar espalhante adesivo. Medir o pH da água e reduzi-lo para 5,5. Em geral, o pH da água de pulverização (represas etc.) é de aproximadamente 7,0. O ácido dicarboxílico Redutil, ácido forte, com duas carboxilas, é excelente para reduzir o pH da água de pulverização. Bastam 8,3 g do produto/100 L de água para reduzir o pH em 2,0 pontos, sem a necessidade de peagâmetro para medi-lo.
 
 
 
