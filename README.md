@@ -172,7 +172,9 @@ diferenciar grão de café de semente de plantas daninhas,.
 cafeeiro;**
 
 **Culturas Intercalares:**
+
 **a) Comente o que são culturas intercalares;**
+
 Cultivo de duas ou mais espécies com diferentes ciclos e arquiteturas vegetativas, exploradas
 concomitantemente na mesma área e num mesmo período de tempo, sendo que não
 necessariamente tenham sido semeadas ao mesmo tempo.
