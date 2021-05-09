@@ -241,6 +241,30 @@ associada ao aumento de cafeína. Além disso, as lesões funcionam
 como uma porta de entrada para outros fungos e bactérias que
 depreciam a qualidade da bebida.
 
+**2) Como você recomendaria a calibração de um pulverizador ARBUS
+400, para aplicação de inseticida?**
+
+Uma boa eficiência de pulverização pode ser obtida com a mistura dos
+inseticidas cartap 500 PS (1,0 Kg p.c./ha); spinosad480 SC (150 mL p.c./
+ha) e triflumuron 250 PM (300 g i.a./ha). Esta pulverização visa matar
+ovos de bicho-mineiro na página superior das folhas (cartap), lagartinhas
+do bicho-mineiro dentro das minas e evitar formar novas minas através
+delas (cartap, spinosad e triflumuron). O inseticida cartap pode também
+matar adultos (mariposinhas) do bicho-mineiro pela ação de contato,
+inclusive também o spinosad. Evitar aplicar inseticida piretróide na
+mistura visando matar adultos da praga. O spinosad pode ser
+substituído pelo clorantraniliprole 250 SC (160 mL p.c./ha) ou
+flubendiamida 480 SC (200 mL p.c./ha). Pulverizar evitando as horas
+mais quentes do dia. Para evitar evaporação de gotas, adicionar óleo
+emulsionável mineral a 0,5% (500 mL de óleo emulsionável/100 L de
+água). Adicionar espalhante adesivo. Medir o pH da água e reduzi-lo
+para 5,5. Em geral, o pH da água de pulverização (represas etc.) é de
+aproximadamente 7,0. O ácido dicarboxílico Redutil, ácido forte, com
+duas carboxilas, é excelente para reduzir o pH da água de pulverização.
+Bastam 8,3 g do produto/100 L de água para reduzir o pH em 2,0
+pontos, sem a necessidade de peagâmetro para medi-lo.
+
+
 
 
   
