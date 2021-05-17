@@ -264,6 +264,26 @@ duas carboxilas, é excelente para reduzir o pH da água de pulverização.
 Bastam 8,3 g do produto/100 L de água para reduzir o pH em 2,0
 pontos, sem a necessidade de peagâmetro para medi-lo.
 
+### AULA 13 - COLHEITA
+
+**Que alternativas você daria a um produtor, para que ele realizasse uma colheita
+seletiva, com uma automotriz?**
+
+A colheita seletiva dos frutos pode ser facilitada e mais econômica, quando realizada
+mecanicamente. No caso da colhedeira mecanizada, automotriz ou tracionada, a colheita
+seletiva consiste em passar a colhedeira, na primeira passada, na condição que ainda possa
+existir cerca de 50% de frutos verdes e, normalmente, cerca de 30 dias após, observando antes
+como está a maturação na lavoura, faz-se a segunda e existem alguns produtores que chegam
+a fazer a terceira. Quanto à regulagem da máquina existem, também, alternativas. Ou se
+emprega uma boa vibração e opera-se com velocidade maior, de cerca de 1,6 km por hora, nas
+duas passadas, ou se coloca uma vibração um pouco menor na primeira e opera-se com
+velocidade menor, de cerca de 0,8 - 1 km por hora. Em lavouras de primeira safra a colheita
+mecanizada do café apresenta restrições quanto à sua utilização. Duas velocidades de rotação
+e vibração das hastes de 600 rpm e 850 rpm.
+
+
+
+
 
 
 
