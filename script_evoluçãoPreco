@@ -1,1 +1,50 @@
+library(dplyr)
+library(ggplot2)
+
+dados <- read.csv("/home/vitor/R_Projetos/preco_cafe_cepea/cepea-consulta-20241025083415.csv")
+View(dados)
+
+names(dados)
+
+# Remover as 3 primeiras linhas
+dados <- dados %>% slice(-c(1:3))
+
+#Renomeando as colunas
+names(dados) <- c("data", "Preço em Real", "Preço em Dolar")
+
+#Verificando os tipo de dados
+str(dados)
+
+#Verificando as informações do Data Frame
+dados$`Preço em Real`
+dados$data
+dados$`Preço em Dolar`
+
+# verificando a Quantidade de NA's presentes 
+sapply(dados, function(x) sum(is.na(x)))
+
+#Criando um gráfico com a evolução do preço do café 
+ggplot(dados, aes(x = data, y = `Preço em Dolar`)) +
+  geom_line(color = "blue") +  # Adiciona uma linha contínua
+  labs(x = "Data", y = "Preço em Dólares", title = "Evolução do Preço em Dólares ao longo do Tempo") +
+  theme_minimal()  # Tema para deixar o gráfico mais limpo
+
+#####
+# Criar o gráfico com barras ao fundo e linha sobreposta
+ggplot(dados, aes(x = data)) +
+  geom_bar(aes(y = `Preço em Dolar`), stat = "identity", fill = "lightblue", alpha = 0.6) +  # Barras de fundo
+  geom_line(aes(y = `Preço em Dolar`), color = "blue", size = 1) +  # Linha sobreposta
+  labs(x = "Data", y = "Preço em Dólares", title = "Evolução do Preço em Dólares com Barras de Fundo") +
+  theme_minimal()  # Tema minimalista para clareza
+
+
+# Criar o gráfico com barras de fundo e linha sobreposta, e eixo X ajustado para mostrar os meses
+ggplot(dados, aes(x = data)) +
+  geom_bar(aes(y = `Preço em Dolar`), stat = "identity", fill = "lightblue", alpha = 0.6) +  # Barras de fundo
+  geom_line(aes(y = `Preço em Dolar`), color = "blue", size = 1) +  # Linha sobreposta
+  labs(x = "Data", y = "Preço em Dólares", title = "Evolução do Preço em Dólares com Barras de Fundo") +
+  scale_x_date(date_breaks = "1 month", date_labels = "%b %Y") +  # Quebra do eixo por mês
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))  # Rotaciona os rótulos 
+
 
