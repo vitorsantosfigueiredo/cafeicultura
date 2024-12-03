@@ -52,3 +52,77 @@ href="https://agrofit.agricultura.gov.br/agrofit_cons/principal_agrofit_cons">AG
 
 <p>Gráfico dos países produtores</p>
     <a href="relatorio_agronegocio_cafe.html">Acesse o Relatório de Agronegócio Café</a>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .comment-section {
+            margin-top: 20px;
+        }
+        .comment-box {
+            margin-bottom: 20px;
+        }
+        .comment {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 10px;
+            background: #f9f9f9;
+        }
+        .comment-author {
+            font-weight: bold;
+        }
+    </style>
+
+    <!-- Seção de Comentários -->
+    <div class="comment-section">
+        <h3>Deixe seu comentário</h3>
+        <div class="comment-box">
+            <form id="commentForm">
+                <label for="name">Nome:</label><br>
+                <input type="text" id="name" name="name" required style="width: 100%; padding: 8px;"><br><br>
+                <label for="comment">Comentário:</label><br>
+                <textarea id="comment" name="comment" required style="width: 100%; height: 100px; padding: 8px;"></textarea><br><br>
+                <button type="submit" style="padding: 10px 20px;">Enviar</button>
+            </form>
+        </div>
+
+        <!-- Área onde os comentários serão exibidos -->
+        <div id="commentsDisplay">
+            <h3>Comentários:</h3>
+            <!-- Comentários adicionados dinamicamente aqui -->
+        </div>
+    </div>
+
+    <script>
+        // Script para lidar com a submissão do formulário
+        const form = document.getElementById('commentForm');
+        const commentsDisplay = document.getElementById('commentsDisplay');
+
+        form.addEventListener('submit', function(event) {
+            event.preventDefault(); // Evita recarregar a página
+
+            // Obtém os valores dos campos de entrada
+            const name = document.getElementById('name').value.trim();
+            const comment = document.getElementById('comment').value.trim();
+
+            if (name && comment) {
+                // Cria um elemento para exibir o comentário
+                const commentDiv = document.createElement('div');
+                commentDiv.classList.add('comment');
+
+                commentDiv.innerHTML = `
+                    <p class="comment-author">${name}:</p>
+                    <p>${comment}</p>
+                `;
+
+                // Adiciona o comentário ao final da lista
+                commentsDisplay.appendChild(commentDiv);
+
+                // Limpa os campos do formulário
+                form.reset();
+            }
+        });
+    </script>
