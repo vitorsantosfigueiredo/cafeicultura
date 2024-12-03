@@ -95,45 +95,7 @@
         <p><a href="https://sidra.ibge.gov.br/tabela/6588">SIDRA IBGE</a></p>
         <h3 id="data-importante">Data Importante</h3>
         <p>A presentação do trabalho provável data 28 de janeiro de 2025</p>
-    <div class="comment-section">
-        <h3>Deixe seu comentário</h3>
-        <div class="comment-box">
-            <form id="commentForm">
-                <label for="name">Nome:</label>
-                <input type="text" id="name" name="name" required>
-                <label for="comment">Comentário:</label>
-                <textarea id="comment" name="comment" required></textarea>
-                <button type="submit">Enviar</button>
-            </form>
-        </div>
-        <div id="commentsDisplay">
-            <h3>Comentários:</h3>
-        </div>
-    </div>
-    <script>
-        const form = document.getElementById('commentForm');
-        const commentsDisplay = document.getElementById('commentsDisplay');
-
-        form.addEventListener('submit', function(event) {
-            event.preventDefault();
-
-            const name = document.getElementById('name').value.trim();
-            const comment = document.getElementById('comment').value.trim();
-
-            if (name && comment) {
-                const commentDiv = document.createElement('div');
-                commentDiv.classList.add('comment');
-                commentDiv.innerHTML = `
-                    <p class="comment-author">${name}:</p>
-                    <p>${comment}</p>
-                `;
-                commentsDisplay.appendChild(commentDiv);
-                form.reset();
-            } else {
-                alert('Por favor, preencha todos os campos.');
-            }
-        });
-    </script>
+    
      <h1>Problema de se Trabalhar com INFLAÇÃO</h1>
     
      <h2>O que é inflação?</h2>
@@ -151,9 +113,12 @@
      </ul>
      <h3>Links Importantes</h3>
      <a href="https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=o-que-e" target="_blank">IPCA</a>
+
      <a href="https://www.ibge.gov.br/explica/inflacao.php" target="_blank">Inflação</a>
 
-     <h1>Métricas Estatísticas</h1>
+     <a href="https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?t=series-historicas&utm_source=landing&utm_medium=explica&utm_campaign=inflacao#plano-real-mes" target="=_blank"> Série Histórica IPCA</a>
+  
+        <h1>Métricas Estatísticas</h1>
     <h2>Coeficiente de Variação (CV)</h2>
     <p>
         O <strong>coeficiente de variação (CV)</strong> é uma métrica que avalia a variabilidade relativa de um conjunto de dados. 
@@ -337,45 +302,19 @@
         tem ninguém vendo isso aqui não. E mesmo que ver, não interressa, não tem pudor nem censura. Internet foi desenvolvida para isso compartilhar texto. Html foi desenvolvido para isso.
         Então pode comentar que vamo colocando ali, já fica registrado.
 
-        <div class="comment-section">
-            <h3>Deixe seu comentário</h3>
-            <div class="comment-box">
-                <form id="commentForm">
-                    <label for="name">Nome:</label>
-                    <input type="text" id="name" name="name" required>
-                    <label for="comment">Comentário:</label>
-                    <textarea id="comment" name="comment" required></textarea>
-                    <button type="submit">Enviar</button>
-                </form>
-            </div>
-            <div id="commentsDisplay">
-                <h3>Comentários:</h3>
-            </div>
-        </div>
-        <script>
-            const form = document.getElementById('commentForm');
-            const commentsDisplay = document.getElementById('commentsDisplay');
+ <h3 id="data-importante">Data Importante</h3>
+        <p>A presentação do trabalho provável data 28 de janeiro de 2025</p>
     
-            form.addEventListener('submit', function(event) {
-                event.preventDefault();
     
-                const name = document.getElementById('name').value.trim();
-                const comment = document.getElementById('comment').value.trim();
-    
-                if (name && comment) {
-                    const commentDiv = document.createElement('div');
-                    commentDiv.classList.add('comment');
-                    commentDiv.innerHTML = `
-                        <p class="comment-author">${name}:</p>
-                        <p>${comment}</p>
-                    `;
-                    commentsDisplay.appendChild(commentDiv);
-                    form.reset();
-                } else {
-                    alert('Por favor, preencha todos os campos.');
-                }
-            });
-        </script>
-    
+        <script src="https://utteranc.es/client.js"
+        repo="username/repo" 
+        issue-term="title" 
+        label="comentários"
+        theme="github-light"
+        crossorigin="anonymous" 
+        async>
+</script>
+
+
 </body>
 </html>
